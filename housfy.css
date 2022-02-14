@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(123, 176, 192);
+}
+
+#planetMap{
+
+}
+
+#coordinates{
+    background-color: white;
+    table-layout: fixed;
+    width: 1000px;
+    height: 1000px;
+    margin-top: 30px;
+}
+
+tr{
+    line-height:0.5;
+}
+
+td {
+    height: 0.5em;
+    width: 0.5em;
+}
